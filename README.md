@@ -1,0 +1,2 @@
+- final : 包含prepare和加密
+- login : 只有密碼加密。
